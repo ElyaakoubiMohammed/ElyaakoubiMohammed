@@ -57,15 +57,29 @@ I approach development as engineering, where structure, performance, and correct
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,csharp,php,sql"/>
 </div>
 
+---
+
 ### Frontend Engineering
 <div>
   <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,bootstrap,tailwind"/>
 </div>
 
+<p>
+React Native • TypeScript • Responsive Design • UI Integration • Component Architecture
+</p>
+
+---
+
 ### Backend Engineering
 <div>
   <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,django,flask"/>
 </div>
+
+<p>
+ASP.NET • API REST • GraphQL • Microservices • Backend Modularity • MVC Architecture
+</p>
+
+---
 
 ### Databases and Data Systems
 <div>
@@ -73,41 +87,56 @@ I approach development as engineering, where structure, performance, and correct
 </div>
 
 <p>
-Oracle Database • SQL Server • Supabase • Advanced relational modeling • Query optimization • Indexing strategies • Transaction management • Data integrity enforcement
+Oracle Database • SQL Server • Supabase • Relational Modeling • Query Optimization • Indexing • Transactions • Data Integrity • Multi user systems
 </p>
+
+---
+
+### Security and Code Quality
+
+- JWT authentication  
+- Role Based Access Control RBAC  
+- API Security and Access Control  
+- Input validation and vulnerability mitigation  
+- Clean Code principles  
+- SOLID principles  
+
+---
 
 ### Architecture and System Design
 
-- REST API design and contract structuring  
-- Microservices and modular system architecture  
-- MVC, layered architecture, and separation of concerns  
-- Clean Architecture and SOLID principles  
-- JWT authentication and session lifecycle management  
-- RBAC and fine grained permission systems  
-- API security, validation, and attack surface reduction  
-- Logging, monitoring, and audit trail systems  
-- Fault tolerance and system resilience thinking  
+- REST API design and structuring  
+- Microservices architecture  
+- MVC and layered architectures  
+- Modular backend design  
+- Separation of concerns  
+- System scalability thinking  
+- Performance oriented design  
 
-### DevOps and Engineering Tooling
+---
+
+### DevOps and Tooling
 <div>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure"/>
 </div>
 
 <p>
-Postman • JUnit • Mockito • Selenium • CI workflows • Version control strategies • Environment configuration
+Postman • JUnit • Mockito • Selenium • API testing • Version control workflows • Environment management
 </p>
-
-### AI Systems and Advanced Integration
-
-- LLM integration in production contexts  
-- Ollama based local model orchestration  
-- Retrieval Augmented Generation pipelines  
-- Multi source document ingestion and querying  
-- Context management and response structuring  
-- Image understanding pipelines and multimodal processing  
 
 ---
 
+### AI and Advanced Systems
+
+- LLM integration  
+- Ollama  
+- Retrieval Augmented Generation RAG  
+- Document search systems  
+- Multi source data querying  
+- Context handling and persistence  
+- Image understanding pipelines  
+
+---
 ## Projects
 
 ### LPEE Intelligent Chatbot
