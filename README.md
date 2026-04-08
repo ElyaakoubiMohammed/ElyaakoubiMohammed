@@ -54,7 +54,7 @@ I approach development as engineering, where structure, performance, and correct
 
 ### Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,csharp,php,sql"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,php,mysql"/>
 </div>
 
 ---
