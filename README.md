@@ -11,7 +11,7 @@
   <a href="mailto:elyaakoubimohammed1@gmail.com">
     <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/">
+  <a href="https://github.com/ElyaakoubiMohammed">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
