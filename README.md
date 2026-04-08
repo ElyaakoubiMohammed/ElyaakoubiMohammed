@@ -3,8 +3,7 @@
 </div>
 
 <div align="center">
-  //<a href="https://github.com/DenverCoder1">
-    //<img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Mohammed Elyaakoubi" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999&color=F7344E&width=435&lines=Mohammed+Elyaakoubi" alt="Typing SVG" /></a>
   <h3>I design and build systems that hold under real pressure</h3>
 </div>
 
