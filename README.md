@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Elyaakoubi Mohammed/h1>
+  <h1>Elyaakoubi Mohammed</h1>
   <h3>Software Engineer | Full Stack Developer | Building Real Things</h3>
 </div>
 
