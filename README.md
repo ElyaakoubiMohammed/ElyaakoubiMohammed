@@ -8,8 +8,8 @@
 </div>
 
 <div align="center">
-  <a href="(https://www.linkedin.com/in/mohammed-elyaakoubi-1b3909243/)">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/mohammed-elyaakoubi-1b3909243/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/ElyaakoubiMohammed">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
