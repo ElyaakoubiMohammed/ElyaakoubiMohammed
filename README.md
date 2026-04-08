@@ -3,10 +3,8 @@
 </div>
 
 <div align="center">
-  <a>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999&color=F7344E&center=true&vCenter=true&width=435&lines=Mohammed+Elyaakoubi" alt="Typing SVG" />
-
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1&pause=99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999&color=F7344E&center=true&vCenter=true&width=435&lines=Mohammed+Elyaakoubi" alt="Mohammed Elyaakoubi" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=3000&width=1000&height=54&lines=Full+Stack+Engineer+specializing+in+backend+architecture%2C+scalable+systems%2C+and+AI+applications" alt="Typing SVG" /><
 
   <h3>I design and build systems that hold under real pressure</h3>
 </div>
