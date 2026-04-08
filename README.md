@@ -4,7 +4,9 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=1&pause=9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999&color=FF00FF&center=true&vCenter=true&width=700&lines=Mohammed+Elyaakoubi;Mohammed+Elyaakoubi;Mohammed+Elyaakoubi" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00f0ff&height=200&section=header&text=Mohammed%20Elyaakoubi&fontSize=50&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1&pause=99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;Backend+Architecture;AI+Systems" />
+
   </a>
   <h3>I design and build systems that hold under real pressure</h3>
 </div>
