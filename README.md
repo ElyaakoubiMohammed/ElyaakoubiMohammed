@@ -141,73 +141,73 @@ JUnit • Mockito • Selenium • API testing • Version control workflows •
 
 ### LPEE Intelligent Chatbot
 
-Enterprise grade AI system designed to make internal company data directly accessible through natural language.
+Enterprise AI system built to expose internal company data through natural language queries.
 
-- Architected a secure backend using Python and REST APIs designed for structured data access  
-- Implemented JWT authentication with role based access control and session management  
-- Designed and deployed a full RAG pipeline using LLM via Ollama for intelligent document retrieval  
-- Enabled unified querying across relational databases and unstructured internal documents  
-- Engineered persistent conversation handling with context awareness  
-- Built a real time React interface with streaming responses and dynamic message updates  
-- Structured the system for modularity, scalability, and long term maintainability  
+- Designed and engineered a backend architecture enabling structured access to enterprise data  
+- Implemented secure authentication with JWT, session handling, and role-based access control  
+- Built and integrated a full RAG pipeline using LLM via Ollama for intelligent document retrieval  
+- Unified access to structured databases and unstructured internal documents in a single querying layer  
+- Engineered persistent conversation context to maintain continuity across interactions  
+- Developed a real-time React interface with streaming responses and dynamic message updates  
+- Structured the system for scalability, modularity, and long-term maintainability  
 
 ---
 
 ### AI RAG System
 
-A complete retrieval and reasoning system built to handle real document querying scenarios.
+Production-oriented retrieval and reasoning system designed for real document querying workflows.
 
-- Designed the full pipeline from document ingestion to response generation  
-- Built modular backend components to ensure scalability and extensibility  
-- Integrated multiple data sources into a unified querying system  
-- Focused on consistency, accuracy, and reliability of generated responses  
-- Designed for real integration, not experimental use  
+- Designed an end-to-end pipeline from document ingestion to response generation  
+- Built modular backend components enabling extensibility and system evolution  
+- Integrated multiple heterogeneous data sources into a unified retrieval layer  
+- Focused on response consistency, accuracy, and reliability under real usage conditions  
+- Designed for integration into existing systems, not isolated experimentation  
 
 ---
 
 ### Web Application Security Hardening
 
-Full stack system rebuilt with a strict focus on eliminating real world vulnerabilities.
+Full stack application re-engineered to eliminate critical vulnerabilities and enforce secure design.
 
-- Performed deep analysis of application attack surface  
-- Identified and resolved SQL Injection, XSS, and broken access control issues  
-- Implemented secure authentication using JWT with controlled session handling  
-- Designed a strict role based authorization system  
-- Added logging and monitoring for sensitive operations and traceability  
+- Analyzed and reduced application attack surface through systematic security review  
+- Identified and resolved SQL Injection, XSS, and broken access control vulnerabilities  
+- Implemented secure authentication flows using JWT with strict session management  
+- Designed and enforced role-based authorization with controlled access boundaries  
+- Added logging and monitoring mechanisms for traceability and auditability  
 
 ---
 
 ### Modular HR Backend System
 
-Backend system engineered for structure, performance, and controlled access.
+Backend architecture designed for controlled access, performance, and structural clarity.
 
-- Designed modular architecture using Spring Boot  
-- Built optimized relational schema using Oracle with performance in mind  
-- Implemented fine grained permission and access control systems  
-- Improved system efficiency through query optimization and indexing strategies  
-- Ensured consistency and integrity in multi user environments  
+- Designed a modular backend using Spring Boot to enforce separation of concerns  
+- Built optimized relational schema in Oracle focused on performance and scalability  
+- Implemented fine-grained permission and role management systems  
+- Improved performance through query optimization, indexing strategies, and data structuring  
+- Ensured data consistency and integrity in concurrent multi-user environments  
 
 ---
 
 ### NFC Mobile Authentication System
 
-Operational mobile system designed for secure identification and data tracking.
+Operational mobile system for secure identification and attendance tracking.
 
-- Developed NFC based authentication workflows for secure user identification  
-- Automated data collection and processing pipelines using Python  
-- Structured and transformed operational data into usable technical reports  
-- Designed system to function reliably in real world environments  
+- Designed NFC-based authentication workflows for reliable user identification  
+- Built automated data collection and processing pipelines using Python  
+- Structured raw operational data into usable technical outputs and reports  
+- Ensured system reliability and usability in real-world deployment conditions  
 
 ---
 
 ### Oracle Database Engineering for HR System
 
-Database system designed with a focus on performance, reliability, and integrity.
+Enterprise database system focused on performance, consistency, and reliability.
 
-- Designed and implemented relational schema for enterprise usage  
-- Optimized complex SQL queries and execution performance  
+- Designed and implemented a relational schema tailored for enterprise HR operations  
+- Optimized complex SQL queries and execution plans for performance under load  
 - Implemented backup, recovery, and data protection strategies  
-- Ensured consistency, concurrency control, and data reliability  
+- Ensured data consistency, concurrency control, and system reliability in multi-user environments  
 
 ---
 
