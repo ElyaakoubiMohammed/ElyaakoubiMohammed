@@ -54,7 +54,7 @@ I approach development as engineering, where structure, performance, and correct
 
 ### Languages
 <div>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,php,mysql"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,php,mysql"/>
 </div>
 
 ---
@@ -72,11 +72,11 @@ React Native • TypeScript • Responsive Design • UI Integration • Compone
 
 ### Backend Engineering
 <div>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,django,flask"/>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,django,flask,graphql"/>
 </div>
 
 <p>
-ASP.NET • API REST • GraphQL • Microservices • Backend Modularity • MVC Architecture
+ASP.NET • API REST • Microservices • Backend Modularity • MVC Architecture
 </p>
 
 ---
@@ -87,7 +87,7 @@ ASP.NET • API REST • GraphQL • Microservices • Backend Modularity • MV
 </div>
 
 <p>
-Oracle Database • SQL Server • Supabase • Relational Modeling • Query Optimization • Indexing • Transactions • Data Integrity • Multi user systems
+Oracle Database • SQL Server • Supabase • Relational Modeling • Query Optimization • Indexing • Transactions • Data Integrity • Multi-user systems
 </p>
 
 ---
@@ -95,7 +95,7 @@ Oracle Database • SQL Server • Supabase • Relational Modeling • Query Op
 ### Security and Code Quality
 
 - JWT authentication  
-- Role Based Access Control RBAC  
+- Role-Based Access Control (RBAC)  
 - API Security and Access Control  
 - Input validation and vulnerability mitigation  
 - Clean Code principles  
@@ -110,18 +110,17 @@ Oracle Database • SQL Server • Supabase • Relational Modeling • Query Op
 - MVC and layered architectures  
 - Modular backend design  
 - Separation of concerns  
-- System scalability thinking  
-- Performance oriented design  
+- Scalability and performance-oriented design  
 
 ---
 
 ### DevOps and Tooling
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,azure,postman"/>
 </div>
 
 <p>
-Postman • JUnit • Mockito • Selenium • API testing • Version control workflows • Environment management
+JUnit • Mockito • Selenium • API testing • Version control workflows • Environment configuration
 </p>
 
 ---
@@ -130,13 +129,14 @@ Postman • JUnit • Mockito • Selenium • API testing • Version control w
 
 - LLM integration  
 - Ollama  
-- Retrieval Augmented Generation RAG  
+- Retrieval Augmented Generation (RAG)  
 - Document search systems  
-- Multi source data querying  
+- Multi-source data querying  
 - Context handling and persistence  
 - Image understanding pipelines  
 
 ---
+
 ## Projects
 
 ### LPEE Intelligent Chatbot
