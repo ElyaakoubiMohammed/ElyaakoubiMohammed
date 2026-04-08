@@ -1,133 +1,122 @@
 <div align="center">
-  <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
+  <img height="180" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
 <div align="center">
-  <h1>Elyaakoubi Mohammed</h1>
-  <h3>Software Engineer | Full Stack Developer | Building Real Things</h3>
+  <h1>Mohammed Elyaakoubi</h1>
+  <h3>Full Stack Engineer focused on building real systems</h3>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="mailto:elyaakoubimohammed1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=leon.profile"/>
 </div>
 
 ---
 
-## About Me
+## About
 
-I am a software engineer from Morocco focused on building real systems that are clean, scalable, and visually impressive.
+I build systems that actually work.
 
-I work mainly on full stack development with strong backend logic and modern frontend design. I do not build basic projects. Everything I create is meant to feel like a real product.
+Not demos. Not tutorials. Not copy pasted projects.
 
-I recently developed an enterprise chatbot connected to internal company systems, combining backend processing, real-time interaction, and a polished interface.
+I focus on backend architecture, security, and real world constraints.  
+Everything I build is designed to be used, not just shown.
 
 ---
 
 ## What I Do
 
-- Full stack application development  
-- Backend architecture and API design  
-- Modern frontend with animations and clean UI  
-- Database integration and optimization  
-- Real-time systems and chat applications  
-- Turning ideas into complete working products  
+- Design backend architectures that scale  
+- Build secure APIs with real access control  
+- Work deeply with databases and performance  
+- Create clean and modern frontends  
+- Build AI systems that are actually integrated, not just plugged in  
 
 ---
 
-## Tech Stack
+## Tech
 
-### Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,csharp"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,csharp,cpp,php"/>
 </div>
 
-### Frontend
 <div>
-  <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,html,css,tailwind,bootstrap"/>
 </div>
 
-### Backend
 <div>
-  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs"/>
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs,django,flask"/>
 </div>
 
-### Database
 <div>
-  <img src="https://skillicons.dev/icons?i=mysql"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,docker,git,linux,azure"/>
 </div>
 
-### Tools
-<div>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,azure"/>
-</div>
+<p>
+Oracle Database · SQL Server · REST APIs · Microservices · JWT · RBAC · Clean Architecture · SOLID · GraphQL · Ollama · RAG
+</p>
 
 ---
 
-## Highlight Project
+## Projects
 
 ### LPEE Intelligent Chatbot
 
-Enterprise chatbot designed to interact with internal company data.
+Enterprise level AI system connected to internal company data.
 
-Key features:
-
-- Natural language queries over structured data  
-- Oracle database integration  
-- File search across documents  
-- Conversation history and switching  
-- Streaming responses  
-- Advanced React UI with editing system  
-- SharePoint-based environment integration  
+- Designed a secure backend architecture with Python and REST APIs  
+- Implemented JWT authentication with role based access control  
+- Built a RAG pipeline using LLM via Ollama for document retrieval  
+- Enabled querying across databases and internal files  
+- Added persistent conversations with context handling  
+- Developed a real time React interface with streaming responses  
 
 ---
 
-## Strengths
+### AI RAG System
 
-- Strong problem solving  
-- Clean and structured code  
-- High attention to UI and UX  
-- Ability to build full systems independently  
-- Fast adaptation to new technologies  
+A complete retrieval based AI system built from scratch.
 
----
-
-## Current Focus
-
-- Advanced frontend design and animations  
-- System scalability and architecture  
-- Building standout portfolio projects  
+- Designed full pipeline from retrieval to response generation  
+- Structured backend for modularity and scalability  
+- Integrated multi source document querying  
+- Focused on real usability instead of prototype behavior  
 
 ---
 
-## GitHub Stats
+### Web Application Security Hardening
+
+Full stack application rebuilt with a focus on security.
+
+- Detected and fixed SQL Injection, XSS, and access control issues  
+- Implemented secure authentication with JWT  
+- Built role based authorization system  
+- Added logging and monitoring for sensitive actions  
+
+---
+
+### Backend Architecture for HR System
+
+- Designed modular backend using Spring Boot  
+- Built optimized relational schema in Oracle  
+- Implemented fine grained access control  
+- Improved query performance and data integrity  
+
+---
+
+## Mindset
+
+I do not build average projects.
+
+If it is not clean, secure, and usable, it is not finished.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</div>
-
----
-
-## Philosophy
-
-I do not build average things.
-
-If it is not clean, impressive, and useful, it is not finished.
-
----
-
-<div align="center">
-  <h3>Let’s build something real.</h3>
+  <h3>Building things that actually matter</h3>
 </div>
