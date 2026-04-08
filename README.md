@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Leon ME</h1>
+  <h1>Elyaakoubi Mohammed/h1>
   <h3>Software Engineer | Full Stack Developer | Building Real Things</h3>
 </div>
 
@@ -20,62 +20,55 @@
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=leonme.profile"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=leon.profile"/>
 </div>
 
 ---
 
 ## About Me
 
-I am a software engineer from Morocco with a strong focus on building real, usable, and well-designed systems. I do not care about theory-only projects. I build things that work, scale, and look good.
+I am a software engineer from Morocco focused on building real systems that are clean, scalable, and visually impressive.
 
-I specialize in full stack development with a strong backend foundation, and I push heavily into clean architecture, performance, and user experience.
+I work mainly on full stack development with strong backend logic and modern frontend design. I do not build basic projects. Everything I create is meant to feel like a real product.
 
-I recently worked on an enterprise-level chatbot system connected to internal company data, combining backend logic, real-time interaction, and a polished frontend.
-
-I care about quality, detail, and execution.
+I recently developed an enterprise chatbot connected to internal company systems, combining backend processing, real-time interaction, and a polished interface.
 
 ---
 
 ## What I Do
 
-- Build full stack applications from scratch
-- Design clean and scalable backend architectures
-- Create modern, animated, high-quality frontends
-- Work with APIs, databases, and real-time systems
-- Optimize performance and user experience
-- Turn ideas into complete, production-ready products
+- Full stack application development  
+- Backend architecture and API design  
+- Modern frontend with animations and clean UI  
+- Database integration and optimization  
+- Real-time systems and chat applications  
+- Turning ideas into complete working products  
 
 ---
 
 ## Tech Stack
 
 ### Languages
-
 <div>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,csharp"/>
 </div>
 
 ### Frontend
-
 <div>
   <img src="https://skillicons.dev/icons?i=react,angular,html,css,tailwind"/>
 </div>
 
 ### Backend
-
 <div>
   <img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs"/>
 </div>
 
 ### Database
-
 <div>
   <img src="https://skillicons.dev/icons?i=mysql"/>
 </div>
 
-### Tools & DevOps
-
+### Tools
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,linux,azure"/>
 </div>
@@ -86,37 +79,35 @@ I care about quality, detail, and execution.
 
 ### LPEE Intelligent Chatbot
 
-A full enterprise chatbot system built to interact with internal company data.
+Enterprise chatbot designed to interact with internal company data.
 
-Features:
+Key features:
 
-- Natural language queries over structured data
-- Connection to Oracle database
-- File search across multiple formats
-- Persistent conversations and history management
-- Real-time streaming responses
-- Advanced React UI with animations and message editing
-- Integration with SharePoint-based environment
-
-This project focuses on real-world usability, not demos.
+- Natural language queries over structured data  
+- Oracle database integration  
+- File search across documents  
+- Conversation history and switching  
+- Streaming responses  
+- Advanced React UI with editing system  
+- SharePoint-based environment integration  
 
 ---
 
 ## Strengths
 
-- Strong problem-solving mindset
-- Clean and structured code
-- Attention to detail in UI and UX
-- Ability to build complete systems independently
-- Fast learner with high adaptability
+- Strong problem solving  
+- Clean and structured code  
+- High attention to UI and UX  
+- Ability to build full systems independently  
+- Fast adaptation to new technologies  
 
 ---
 
 ## Current Focus
 
-- Advanced frontend design and animation
-- Improving system architecture and scalability
-- Building high-quality portfolio projects that stand out
+- Advanced frontend design and animations  
+- System scalability and architecture  
+- Building standout portfolio projects  
 
 ---
 
@@ -131,11 +122,9 @@ This project focuses on real-world usability, not demos.
 
 ## Philosophy
 
-I do not build average projects.
+I do not build average things.
 
-Everything I create is meant to be clean, impressive, and actually useful.
-
-If it is not something I would be proud to show, I do not ship it.
+If it is not clean, impressive, and useful, it is not finished.
 
 ---
 
